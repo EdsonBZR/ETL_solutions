@@ -1,0 +1,5 @@
+id,nome,idade,cidade,salario,status_salario
+1,Alice,30,Sao Paulo,5000,Alto
+3,Carlos,35,Belo Horizonte,6000,Alto
+4,Diana,29,Sao Paulo,4800,Médio
+6,Fernanda,40,Rio de Janeiro,7000,Alto
